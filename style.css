@@ -1,0 +1,41 @@
+body{
+  background-color: #011627;
+  color: white;
+  text-align: center;
+  border: 36px solid coral;
+  border-bottom: 0px;
+  margin: 0px;
+}
+ p{
+   font-size: 36px
+ }
+
+h1{
+  color: green;
+}
+
+
+h2{
+
+  color: coral;
+}
+
+
+p{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+form{
+  font-size: 20px;
+}
+
+
+#sub{
+margin-bottom:  35px;
+margin-top: 10px;
+height: 30px;
+width: 170px;
+background-color: green;
+border-radius: 63px
+}
